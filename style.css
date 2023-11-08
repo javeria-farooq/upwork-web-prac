@@ -1,0 +1,342 @@
+#def{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    height: 30px;
+    width: 100%;
+    padding-left: 10px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 0px;
+}
+
+li{
+    display: inline-block;
+    margin-right: 20px;
+    font-size: small;
+}
+
+#green{
+    color: green;
+    font-size: larger;
+    font-weight: bold
+}
+
+#img{
+    background-image: url(https://www.shutterstock.com/image-vector/magnifying-glass-search-icon-flat-260nw-738763579.jpg);
+    background-size: 23px;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    border-radius: 20px;
+    height: 25px;
+    width: 185px;
+    /* margin-top: 5px;
+    margin-left: 70px; */
+    border: 1px solid gray;
+}
+
+#log{
+    background-color: white;
+    border: 0px solid white;
+}
+
+#sign{
+    background-color: green;
+    color: white;
+    border: 0px solid green;
+    border-radius: 20px;
+    height: 25px;
+    width: 80px;
+}
+
+#anc{
+    position: fixed;
+    top: 47px;
+    font-size: 10px;
+    padding-top: 15px;
+    padding-left: 8px;
+    font-weight: 600;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    background-color: white;
+    /* height: 50px; */
+    margin-top: 0px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+}
+
+
+a:hover{
+    color: green;
+    text-decoration: underline
+}
+
+
+#headtype{
+      /* position: relative;
+      top: 80px; */
+      font-size: 50px;
+      color: green;
+}
+
+#text{
+    width: 40%;
+    float: left;
+    padding-left: 50px;
+    float: left;
+}
+
+#float{
+    width: 50%;
+    float: left;
+}
+
+#para{
+    /* position: relative;
+    top: 50px; */
+    color: #525c4c;
+    font-weight: 550;
+}
+
+#start{
+    background-color: green;
+    color: white;
+    border: 0px solid green;
+    border-radius: 25px;
+    height: 30px;
+    width: 100px;
+}
+
+
+#start:hover{
+    background-color: green;
+    opacity: 0.89;
+}
+
+
+#trust{
+    color: #525c4c;
+    font-size: small;
+}
+
+img{
+    width: 60px;
+    height: 60px;
+}
+
+/* #nav{
+    background-color: white;
+} */
+
+span{
+    margin-left: 65px;
+}
+
+#float{
+    height: 250px;
+    width: 250px;
+    /* border: 2px solid black; */
+    margin-top: 50px;
+    margin-left: 170px;
+   
+}
+
+#imgflo{
+    height: 300px;
+    width: 300px;
+}
+
+#gif{
+    width: 280px;
+    height: 280px;
+    clear: both;
+    background-color: lightgray;
+    border-radius: 5px;
+    margin-left: 30px;
+    /* margin-top: 30px; */
+    float: left;
+}
+
+#imggif{
+     width: 290px;
+     height: 290px;
+}
+
+#abc{
+    width: 60%;
+    float: left;
+    margin-left: 20px;
+    /* list-style-type: circle; */
+    /* position: relative;
+    top: -20px; */
+}
+
+.bold{
+    font-size: large;
+    /* list-style-position: inside;
+    list-style-type: circle; */
+}
+
+.style{
+    /* list-style-type: circle; */
+    /* display: block; */
+}
+
+#gh{
+    background-color: green;
+    color: white;
+    border-radius: 20px;
+    height: 30px;
+    border: 2px solid green;
+    width: 130px;
+}
+
+
+#gh:hover{
+    background-color: green;
+    opacity: 0.88;
+}
+
+
+#ij{
+    background-color: white;
+    color: green;
+    border-radius: 20px;
+    height: 30px;
+    border: 2px solid green;
+    width: 130px;
+}
+
+#kl{
+    clear: both;
+    /* font-weight: lighter; */
+}
+
+#mn{
+    color: #525c4c;
+    font-size: small;
+}
+
+#op{
+    color: green;
+    text-decoration: underline;
+}
+
+#qr{
+    width: 100%;
+    height: 230px;
+    /* background-color: blue; */
+    padding: 50px;
+}
+
+.card{
+    background-color: lightcyan;
+    width: 170px;
+    height: 100px;
+    display: inline-block;
+    margin: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* #st{
+    margin: 10px;
+}
+
+#uv{
+    margin: 10px;
+} */
+
+.card:hover{
+    background-color: lightgray;
+}
+
+#wx{
+   margin-left: 40px;
+    width: 90%; 
+    height: 400px;
+    background-color: pink;
+    /* border: 1px solid pink; */
+    border-radius: 10px;
+}
+
+.yz{
+    background-color: darkgreen;
+    width: 400px;
+    height: 380px;
+    padding: 10px;
+    color: white;
+    float: left;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#ab{
+    color: lawngreen;
+}
+
+#cd{
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: white;
+    color: green;
+    border: 2px solid white;
+    border-radius: 20px;
+    height: 27px;
+    width: 100px;
+    /* float: left; */
+}
+
+.image{
+    float: left;
+    
+}
+
+#ef{
+    width: 375px;
+    height: 400px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+#mshkl{
+    /* background-color: aqua; */
+    width: 730px;
+    height: 400px;
+    clear: both;
+    margin-left: 40px;
+    margin-top: 40px;
+    border-radius: 5px;
+    padding: 30px;
+    background-image: url(https://tandfbis.s3-us-west-2.amazonaws.com/rt-files/Faculty/Laura+Maisey/10+tips+for+successful+studying+3+OP.jpg);
+    background-size: cover;
+    color: white;
+    
+}
+
+.last{
+    width: 230px;
+    height: 100px;
+    /* padding: 10px; */
+    background-color: green;
+    color: white;
+    border: 2px solid green;
+    border-radius: 5px;
+}
+
+.last:hover{
+    background-color: white;
+    color: green;
+    border: 2px solid white;
+}
